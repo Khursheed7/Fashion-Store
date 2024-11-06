@@ -1,0 +1,24 @@
+
+.hero-section {
+    background-image:url('cloth.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 250px;   
+}
+
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+.btn-primary {
+    background-color:#555; 
+    color: #fff; 
+    border: none; 
+}
+
+
+.btn-custom:hover {
+    background-color:#555; 
+}
+
